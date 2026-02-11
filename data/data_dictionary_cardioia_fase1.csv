@@ -1,0 +1,18 @@
+coluna,tipo,descricao
+idade,int,Idade do indivíduo (18 a 40). Dados simulados.
+sexo,str,Sexo biológico (F/M) simulado.
+imc,float,Índice de Massa Corporal simulado.
+atividade_fisica_nivel,int,"Nível de atividade física: 0=sedentário, 1=leve, 2=moderado, 3=alto."
+historico_familiar_cardiovascular,int,"Histórico familiar de doença cardiovascular: 0=não, 1=sim."
+status_uso_nicotina,int,"Status de uso: 0=nunca, 1=ex-usuário, 2=usuário atual."
+tipo_exposicao,int,"Tipo: 0=nenhum, 1=cigarro, 2=vape, 3=ambos."
+anos_de_uso,int,Tempo de uso (anos). 0 se nunca.
+cigarros_por_dia,int,Intensidade de cigarro (cigarros/dia). 0 se não usa cigarro.
+puffs_vape_por_dia,int,Intensidade de vape (puffs/dia). 0 se não usa vape.
+pressao_sistolica,int,"Pressão arterial sistólica (mmHg), simulada."
+pressao_diastolica,int,"Pressão arterial diastólica (mmHg), simulada."
+frequencia_cardiaca_repouso,int,"Frequência cardíaca em repouso (bpm), simulada."
+colesterol_total,int,"Colesterol total (mg/dL), simulado."
+spo2,int,"Saturação periférica de oxigênio (%), simulada."
+sintoma_principal,str,Sintoma principal reportado (categoria simulada).
+triagem_risco_simulada,str,"Classificação de triagem (baixo/moderado/alto), gerada por score educacional (não clínico)."
