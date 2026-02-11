@@ -1,0 +1,11 @@
+id_paciente,idade,sexo,imc,atividade_fisica_nivel,historico_familiar_cardiovascular,status_uso_nicotina,tipo_exposicao,anos_de_uso,cigarros_por_dia,puffs_vape_por_dia,pressao_sistolica,pressao_diastolica,frequencia_cardiaca_repouso,colesterol_total,spo2,sintoma_principal,triagem_risco_simulada,prob_hipertensao_simulada,prob_dislipidemia_simulada,prob_arritmia_simulada,prob_hipoxemia_simulada,risco_cardiovascular_geral_simulado,triagem_risco_geral_simulada
+48,38,M,24.4,1,1,2,3,4,5,190,138,80,75,203,95,assintomatico,alto,0.9226,0.6711,0.6932,0.7068,0.8279,alto
+110,25,M,34.8,0,0,1,3,13,3,2,133,87,87,199,96,tontura,alto,0.9772,0.8672,0.7265,0.4651,0.8003,alto
+140,24,M,32.7,1,0,2,3,9,8,132,141,89,66,246,96,fadiga,alto,0.9817,0.9509,0.513,0.5939,0.7995,alto
+149,28,F,34.3,1,0,2,3,4,4,183,130,74,73,226,97,palpitacao,moderado,0.8885,0.921,0.7197,0.4207,0.7717,alto
+12,38,M,28.7,1,1,1,3,8,0,35,137,73,86,233,97,assintomatico,alto,0.8829,0.8869,0.6715,0.3015,0.7643,alto
+210,21,M,38.4,0,0,1,2,6,0,45,137,78,99,237,97,assintomatico,alto,0.9335,0.9477,0.7799,0.1708,0.7457,alto
+96,25,M,29.1,0,0,1,3,1,3,48,131,84,84,200,95,dor_toracica,alto,0.9273,0.7285,0.6418,0.5548,0.7273,alto
+46,35,M,27.9,0,0,1,3,20,3,41,140,87,78,219,97,palpitacao,alto,0.9724,0.8945,0.5977,0.3543,0.7235,alto
+284,19,M,24.9,0,1,2,2,4,0,256,126,78,57,284,95,tontura,moderado,0.7861,0.9582,0.2923,0.5449,0.7201,alto
+89,32,F,25.9,1,1,2,2,20,0,286,138,79,65,198,95,fadiga,moderado,0.9007,0.5958,0.398,0.6225,0.7044,alto
