@@ -1,0 +1,65 @@
+Flavia Nunes Bocchino RM — 564213
+12 DE Fevereiro de 2026
+
+Tabagismo e Vapes como Eixo de Risco Cardiovascular: Base Teórica do
+CardiolA (18- 40 anos)
+
+A fundamentação teórica e metodológica do projeto CardioIA estabelece que o
+tabagismo e o uso de dispositivos eletrônicos de entrega de nicotina (vapes) não
+devem ser compreendidos meramente como variáveis isoladas, mas sim como o eixo
+estruturante em torno do qual orbitam os demais indicadores clínicos. Sob essa
+perspectiva, métricas como pressão arterial, níveis lipídicos, frequência cardíaca,
+$SpO 2$ e IMC são articuladas para evidenciar como a exposição à nicotina
+potencializa riscos e aciona alertas precoces, especialmente na janela epidemiológica
+de 18 a 40 anos. A literatura selecionada para esta fase confere a densidade necessária
+a essa interpretação, permitindo que variáveis brutas sejam convertidas em
+significados clínicos e que o sistema consiga distinguir riscos plausíveis de ruídos
+estatísticos. Além disso, essa base teórica prepara o subsídio léxico para as etapas de
+Processamento de Linguagem Natural (NLP), viabilizando a extração de padrões e
+a conexão entre a modelagem numérica e o conteúdo textual. Com essa integração,
+o CardiolA deixa de ser apenas um dataset organizado e evolui para uma plataforma
+coerente de triagem, capaz de fundamentar o apoio remoto com explicabilidade
+diagnóstica.
+
+Essa proposta encontra respaldo no Caderno de Atenção Primária nº 29 do Ministério
+da Saúde, que delimita as fronteiras éticas e técnicas do rastreamento em saúde. O
+documento reforça que o ato de triar não deve configurar uma busca indiscriminada
+por patologias, mas sim uma estratégia de tomada de decisão baseada no equilíbrio
+entre benefícios e riscos. Tal premissa dialoga diretamente com a governança do
+CardiolA, uma vez que o projeto não visa o diagnóstico automatizado por planilhas,
+mas sim o suporte à priorização responsável de casos. Ao estruturar dados como
+pressão arterial, sintomas e histórico familiar de acordo com essas diretrizes,
+estabelece-se uma base de IA proporcional ao risco individual, mitigando
+intervenções desnecessárias ou interpretações carentes de critério clínico.
+
+
+Complementando essa visão, a cartilha "Parar de Fumar: um guia de autoajuda"
+insere a dimensão comportamental como um fator determinante na análise de risco.
+Ao detalhar os mecanismos de dependência, gatilhos e sintomas de abstinência, o
+guia justifica por que a intensidade e a cronicidade da exposição ao tabaco são
+variáveis críticas para a avaliação
+
+cardiovascular. Para o desenvolvimento tecnológico, esse material provê o corpus
+necessário para que o sistema de NLP aprenda a identificar padrões de relato e temas
+subjetivos, capturando nuances da jornada do paciente que os dados puramente
+numéricos frequentemente negligenciam. Esse vínculo entre comportamento e
+evidência é reforçado pela literatura sobre hipertensão no contexto brasileiro, que
+ratifica a pressão arterial como um indicador decisivo para desfechos
+cardiovasculares e exige uma conduta baseada em evidências. Em última análise, a
+convergência desses textos sustenta a Fase 1 do projeto como um alicerce robusto,
+assegurando que o desenvolvimento da IA seja orientado por pensamento crítico,
+rigor clínico e um propósito preventivo claramente definido.
+
+Bibliografia
+
+BRASIL. Ministério da Saúde. Rastreamento. Cadernos de Atenção Primária, n.
+29. Brasília, DF: Ministério da Saúde, 2010.
+
+BRASIL. Ministério da Cidadania. Secretaria Nacional de Cuidados e Prevenção às
+Drogas (SENAPRED). Parar de fumar: um guia de autoajuda. Brasília, DF:
+Ministério da Cidadania, 2021.
+
+PEPELIASCOV, Vanessa; YUGAR-TOLEDO, João Carlos; MORENO JÚNIOR,
+Hamilton; et al. Benefits of Angiotensin II Receptor Antagonists in the
+Treatment of Hypertension in Brazil. Biomedical Science and Engineering, v. 3,
+n. 2, p. 41-45, 2015. DOI: 10.12691/bse-3-2-3.

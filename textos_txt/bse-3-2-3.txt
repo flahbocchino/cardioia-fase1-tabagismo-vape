@@ -1,0 +1,685 @@
+Biomedical Science and Engineering, 2015, Vol. 3, No. 2, 41-45
+Available online at http://pubs.sciepub.com/bse/3/2/3
+
+O Science and Education Publishing
+
+DOI:10.12691/bse-3-2-3
+
++ SeltP
+vw) Science & Education
+Publishing
+
+ 
+
+AT1 Receptor Antagonists: Pharmacological Treatment
+
+of Hypertension in Brazil
+
+Vanessa Pepeliascov!, Kleber de Magalhães Galvão!, Dones Cláudio Janz Jr”, Helen Dutra Leite”,
+Felipe de Lara Janz””
+
+"Bandeirante University, Sao Paulo, Brazil
+2Ponta Grossa StateUniversity, Ponta Grossa Brazil
+*Universityof São Paulo, Sao Paulo, Brazil
+*Corresponding author: fljanzDusp.br
+
+Abstract High blood pressure (HBP) is a multifactorial disease that affects millions of people around the world
+and contributes to a large number of deaths due to acute myocardial infarction, stroke and chronic kidney disease. Its
+etiology remains inconclusive, but it is known that it arises of central and peripheral catecholaminergic dysfunction.
+Thus, cellular mechanisms are still under investigation. Its pathophysiology is characterized by an increase in
+systolic and diastolic blood pressure levels. The national and international guidelines for hypertension indicate that
+effective pharmacotherapy provides a control in blood pressure values and mortality/ morbidityreduction. Classes of
+antihypertensive drugs available for clinical use are diuretics, beta-blockers, alpha-blockers, sympatholytic, calcium
+channel antagonists, angiotensin converting enzyme inhibitors and angiotensin receptor antagonists of angiotensin II
+(ARBs). ARBs (i.e.: candesartan, irbesartan, losartan, olmesartan, telmisartan and valsartan)represent current and
+often used drug class in Brazil.They have different molecular configurations with independent action mechanismsin
+angiotensin II AT1 receptor. The objective of this paper is to discuss the pathophysiology and pharmacotherapy of
+hypertension, emphasizing the antagonists of angiotensin II used in Brazil, since they constitute a class of
+antihypertensive drugs that has fewer side effects and greater therapeutic efficacy.
+
+Keywords: high blood pressure, pharmacotherapy, angiotensin II antagonists
+
+Cite This Article: Vanessa Pepeliascov, Kleber de Magalhães Galvão, Dones Cláudio Janz Jr, Helen Dutra
+Leite, and Felipe de Lara Janz, “AT1 Receptor Antagonists: Pharmacological Treatment of Hypertension in
+
+Brazil.” Biomedical Science and Engineering, vol. 3, no. 2 (2015): 41-43. doi: 10.12691/bse-3-2-3.
+
+1. Introduction
+
+1.1. Blood Pressure and Control Mechanisms
+
+Peripheral vascular resistance (PVR) and cardiac output
+(CO) determine blood pressure (BP). Control of BP
+involves numerous substances and physiological
+mechanisms that interact to maintain the PA at appropriate
+levels in different situations. Control mechanisms result
+from the interaction of various physiological systems as
+cardiovascular, renal, neural and endocrine systems. The
+autonomic nervous system and its different hormonal
+types stand out in controlling blood pressure [1].
+Dysfunctions in these control mechanisms, with
+consequent changes in the variables PVR and DC result in
+systemic hypertension (SH) [2]. Autonomic nervous
+system (ANS) plays an important role in controlling blood
+pressure.
+
+According to the VI Brazilian Guidelines on Arterial
+Hypertension (2010) in 2007, there were 1,157,509 cases
+for cardiovascular disease (CVD) in the National Health
+System. With regard to costs, in November 2009 there
+were 91,970 hospitalizations for CVD, resulting in a cost
+of R$ 165,461,644.33. End-stage renal disease, another
+condition often associated to hypertension, resulted in the
+
+inclusion of 94 282 individuals undergoing dialysis in
+SUS(Health UnicSystem and 9,486 deaths in 2007.
+
+We can classify this regulation in two ways: short-
+termneuro-humoral regulation and medium and long-term
+regulation through the activation or inhibition of hormone
+systems or for retention and excretion of sodium [3]. ANS
+influences tonic and reflex cardiovascular system. Largely
+the effects caused by the nervous system in the
+cardiovascular system are due tothe action of
+neurotransmitters noradrenaline (NA) and acetylcholine
+(Ach). However, catecholamines release in other
+postganglionic sympathetic and parasympathetic terminals
+potentiate or decrease the activity of NA and Ach [4].
+According to Guyton and Hall, 2002, [5] there are reflex
+mechanisms from the autonomic nervous system, that
+control the BP, the main ones are the baroreceptors,
+arterial chemoreceptors and lung receptors.
+
+The blood pressure control by the baroreflex system
+(mediated by stimulation of baroreceptors aortic and
+carotid, called high-pressure receptors) acts in situations
+where it is required to keep track of blood pressure, such
+as physical exercise, postural changes or pathological
+situations like hemorrhage and hypothermia [6]. Arterial
+chemoreceptors are sensitive cells that monitor the amount
+of oxygen, carbon dioxide, and hydrogen ions in the blood.
+When BP falls below a critical level, chemoreceptors are
+
+
+Biomedical Science and Engineering 42
+
+stimulated by decreasing oxygen, carbon dioxide
+formation and hydrogen ions [7].
+
+Baroreceptors are located in strategic positions between
+the heart and the brain, and chemoreceptors are located in
+the carotid bodies of two common carotid arteries and
+aortic bodies of the aorta [8]. Release of adrenaline and
+noradrenaline from the adrenal medulla, release of
+vasopressin by the neurohypophysis and the increase in
+plasma renin levels occur when sustained BP falls. These
+humoral mechanisms may performa cardiovascular
+response for minutes or even hours [6].
+
+1.1.1. Renin-angiotensin-aldosterone
+
+Renin-angiotensin-aldosterone system (RAAS) has
+been studied for over a century and found to play an
+important role in blood pressure regulation. This system
+helps to maintain cardiovascular homeostasis, control of
+volume and peripheral vascular resistance. Misfits in this
+system are directly involved in the onset of hypertension
+[9].
+
+Activation of this system is given by prorenin, which is
+secreted in juxtaglomerular cells located in nephrons in
+response to an increase in sympathetic nervous system
+activity or a decrease in blood pressure, the volume of
+extracellular fluids and the extracellular sodium
+concentration [10]. Prorenin is then converted to renin.
+Three predominant mechanisms control the secretion of
+renin, which are macula dense, renal baroreceptor and
+sympathetic stimulation [9]. In the bloodstream, renin acts
+enzymatically in the conversion of angiotensinogen,
+which is a plasma protein produced in the liver and has
+452 amino acids. Angiotensinogen is converted to
+angiotensin I, which is then converted to angiotensin. This
+conversion occurs in the passage of blood through the
+lungs through angiotensin-converting enzyme (ACE).
+ACE is composed of 1278 amino acids consisting of two
+domains: one amino terminal and one carboxyterminal. It
+is most frequently found on the luminal surface of
+vascular endothelial cells, also found in smooth muscle
+cells of the vessels, cardiomyocytes, proximal convoluted
+tubule kidney and brain tissue. Recently identified a
+homologue of ACE, ACE2 that critically regulates heart
+function, and provides a counteraction to the ACE [11].
+
+There are 02 types of angiotensin II receptors, AT1 and
+AT2.The main actions of angiotensin II (ANG II) are
+mediated by these two receptors, especially in the control
+of blood pressure. Angiotensin II receptor blockers are
+highly selective to AT1 receptor. They act antagonistically,
+blocking the actions of ANG Il. The AT1 receptor
+blockade results in inhibition of vasoconstriction and
+decreased aldosterone synthesis [12]. ANG II is a potent
+vasoconstrictor that acts on the short and long-term
+regulation of blood pressure. ANG II present in circulation
+reduces the excretion of sodium by increasing the
+absorption thereof in the proximal tubules of the kidney.
+The stimulation of aldosterone secretion by the adrenal
+gland that is responsible for increasing the retention of salt
+and water by the kidneys is mediated by ANG II, thus
+contributing to AP long-term regulation [13].
+
+The AT1 and AT2 receptors membrane mediates the
+biological activity of ANG II. AT1 receptor promotes
+most of the known actions of ANG II effects such as
+vasodilation, inhibition of apoptosis and cell growth and
+differentiation, through the intermediate pathways involving
+
+substances such as diacylglycerol, inositol triphosphate,
+phospholipase C and calcium. AT2 receptors have a
+probable action in modulating the effects of angiotensin II
+to the AT1 receptor [10].
+
+2.  Pharmacotherapy of
+Hypertension
+
+Systemic
+
+According to the Brazilian Hypertension Guidelines of
+2010, the goals of pharmacological treatment of
+hypertension should be: reduction of morbidity and
+mortality in cardiovascular events and achievement of the
+goals set in pressure levels. Below is the classification of
+drugs for the treatment of hypertension:
+
+a) Diuretics;
+
+b) Centrally acting adrenergic inhibitors - alpha-2 central
+agonists;
+
+c) Beta-blockers;
+
+d) Alpha-blockers - alpha-1 adrenergic blockers;
+
+e) Direct vasodilators;
+
+f) Calcium channel blockers;
+
+g) Angiotensin converting enzyme inhibitors;
+
+h) AT1 receptor blockers of angiotensin II;
+
+i) Direct renin inhibitor.
+
+Studies have demonstrated reduction of morbidity and
+mortality in greater numbers with diuretics, beta-blockers,
+angiotensin converting enzyme inhibitors of angiotensin
+AT1 receptor blockers and calcium channel blockers.
+Among the therapeutic classes mentioned, the ATI
+receptor blockers have shown greater efficacy in reducing
+cardiovascular morbidity and mortality (Ribeiro, 2008).
+The LIFE study (Losartan Intervention for The End Point
+Reduction in Hypertension Study), VALUE (Valsartan
+Antihypertensive Long-term Use Evaluation) and SCOPE
+(Study on Cognition in the Elderly) show comparable
+values in the reduction in blood pressure compared with
+the effects and classes cardio protective that provide better
+results than other therapies [11].
+
+2.1. Antagonists of Angiotensin II Receptor
+
+The arrival of antagonists of angiotensin II receptor in
+the pharmaceutical market is relatively recent. It began in
+the late 1980swith losartan and currently has several other
+representatives who appeared in the pharmaceutical
+market a few years ago. In Brazil, the marketed drugs are
+candesartan, irbesartan, losartan, olmesartan, telmisartan
+and valsartan.
+
+ 
+
+Table 1. Angiotensin type II receptor blockers
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Candesartan 8 mg and 32 mg
+Irbersartan 150 mg and 300 mg
+losartan 25 mg 100 mg
+Olmesartan 20 mg and 40 mg
+Telmisartan 40 mg and 160 mg
+Valsartan 80 mgand 320 mg
+
+ 
+
+This antihypertensive drug class is relatively new, but
+has shown to reduce cardiovascular events related to
+hypertension. The first drug of this class was losartan. In
+Brazil, there are six types of angiotensin II receptor
+blockers (ARBs): losartan, valsartan, candesartan,
+telmisartan, olmesartan and ibersartan. LIFE, VALUE and
+
+ 
+
+
+43 Biomedical Science and Engineering
+
+SCOPE studies were conducted with hypertensive patients
+to verify the effectiveness of these ARBs. The LIFE study
+compared ARBs with atenolol and losartan; their results
+showed that losartan achieved a blood pressure reduction
+of 30.2 / 16.6 while atenololprovided a reduction of
+29.1/16.8 mm/hg. The most significant values
+wereobtained in the reduction of cardiovascular events,
+with 25% reduction of cerebral vascular accident (CVA)
+and onset of diabetes, with treatment with losartan [14].
+Beneficial effects of ARBs are primarily attributed to
+its ability to block specificallythe AT1 angiotensin II
+receptors, preventing its harmful effects. They have
+different molecular configurations that promote actions
+
+regardless ofthe form of block angiotensin II AT1 receptor.
+
+Among them, olmesartan is the one that has demonstrated
+greater reduction in blood pressure values. Olmesartan
+medoxomil is the newest drug of the class of AT1 receptor
+blockers of angiotensin II (ARBs). In comparative studies,
+it was effective in reducing blood pressure values higher
+than others in this class and similar to amiodipine [12].
+ARBs, in general, act by blocking the action of the AT1
+receptor, which is responsible for most actions hitherto
+known angiotensin II. Through the intermediate pathways
+involving substances such as diacylglycerol (DAG),
+inositol triphosphate (PI3), phospholipase C (PLC) and
+calcium, Angiotensin II also stimulates vasoconstriction
+promotes intracellular protein synthesis [10].
+
+The roles of AT2 receptors are not well defined. They
+play a role of importance in fetuses and in adults in
+response to injury. It is believed that the AT2 receptor is
+involved in modulating the effects of angiotensin II to the
+AT1 receptor (counteracting the pro-synthesis stimulus)
+[9]. The antihypertensive effect of ARBs is comparable to
+other antihypertensive agents such as ACE inhibitors,
+calcium antagonists and beta-blockers. Irbesartan
+(300mg/day), candesartan (16 mg/day) appear to have
+antihypertensive effect more pronounced than losartan
+(100 mg / day to 50 mg/day, respectively) in patients with
+essential hypertension [12]. ARBs result in an equal
+pressure drop that is indifferent to increasing the dose.
+This is a dose-response “shallow” curve when it comes to
+olmesartan, however, the curve has a steeper slope.
+Studies with olmesartan demonstrate that this molecule
+has the greatest number of functional sites (seven), and the
+hydrogen bonding and hydrophobic interactions provided
+by the hydroxyl radicals and alpha-carboxyl increase
+affinity for the AT1 receptor [15].
+
+2.1.1. Pharmacodynamics
+
+Angiotensin II receptor blockers (ARBs) are a class of
+antihypertensive drugs that block the RAAS, selectively
+antagonizing the ANG II receptor type AT1. ARBs can
+operate in dual manner, namely blocking the actions of
+ANG II by the antagonism of AT1 receptors and AT2
+receptors stimulating by elevated circulating levels of
+ANG II [15]. The pharmacologically ARBs, have
+
+pharmacodynamics differences in the mechanism of action.
+
+However, generally the blockade of AT1 receptors,
+antagonizing the effects of Ang II, [13].
+
+The basic mechanism of action of angiotensin II
+antagonists is to antagonize specifically the AT1 receptor,
+emptyingthe AT2 receptor. Angiotensin II antagonists
+have a different pharmacodynamics profile from ACE
+inhibitors; they do not block the converting enzyme and,
+
+thus, do not increase levels of bradykinin [8]. As stated
+within the ARBs classes there pharmacodynamics
+differences as we see below: Losartan binds selectively to
+the AT1 receptor and does not bind to or block other
+hormone receptors or ion channels that are important in
+cardiovascular regulation. Losartan is a potent orally
+active synthetic compound.Both in vitro and in vivo,
+losartan as a pharmacologically active metabolite
+carboxylic acid (E-3174) block all physiologically
+relevant actions of angiotensin II, regardless of the source
+or route of synthesis [16].
+
+Candesartan cilexetil has a different mechanism of
+action when compared to losartan;the prodrug is rapidly
+converted to the active drug, candesartan, by ester
+hydrolysis during absorption in the gastrointestinal tract.
+Candesartan is an antagonist of angiotensin II receptor,
+selective for AT1 receptors, with tight binding to it and
+slow dissociation from the receptor. Candesartan does not
+bind to or block other hormone receptors or ion channels
+known to be important in cardiovascular regulation [17].
+
+Olmesartan medoxomil is a prodrug as well as
+candesartan. During absorption from the gastrointestinal
+tract, it is hydrolyzed to olmesartan, the biologically active
+compound. It is a selective antagonist of angiotensin II
+receptor subtype AT1. Olmesartan binds competitively
+and selectively to the AT1 receptor, preventing the
+vasoconstrictor effects of ANG II selectively blocking its
+binding to the AT1 receptor in vascular smooth muscle.
+Its action does not depend on the route of synthesis of
+ANG [18].
+
+Telmisartan removes, with very high  affinity,
+angiotensin II from its binding sites at the AT1 receptor,
+which is responsible for the known actions of angiotensin
+II. Telmisartan has no partial agonist activity at the AT1
+receptor selectively and binds to these receptors. This
+connection is long lasting. Telmisartan does not show
+affinity for other receptors, including AT2 [19]. Valsartan
+is a potent and specific antagonist of Ang II receptor
+active orally. It acts selectively on the AT1 receptor
+subtype. Increased plasma levels of Ang II according to
+the AT1 receptor blockade with valsartan may stimulate
+the unblocked AT2 receptor, which appears to
+counterbalance the effect of the AT1 receptor [20].
+
+2.1.2. Pharmacokinetics
+
+ARBs have low oral bioavailability, usually lower than
+50%, except for irbesartan (70%) and high plasma protein
+binding (> 90%). Most ARBs are metabolized by the liver
+and therefore should be used with caution in patients with
+impaired liver function, especially for telmisartan. Age,
+ethnicity and sex do not seem to interfere with the efficacy
+of these drugs [21].
+
+Oral losartan is well absorbed and undergoes first-pass
+metabolism, forming an active carboxylic acid metabolite
+and other inactive metabolites. Presents a systemic
+bioavailability of approximately 33%, achieving its mean
+maximum concentration, of its active metabolite in 1 hour
+and in 3 to 4 hours, respectively.Losartan and its active
+metabolite present the plasma protein binding rate> 99%,
+mainly to albumin. The volume of distribution of losartan
+is 34 liters. Studies in rats indicate that losartan does not
+substantially cross the blood-brain barrier. After oral
+administration, plasma concentrations of losartan and its
+active metabolite exponentially decrease with terminal
+
+
+Biomedical Science and Engineering 44
+
+half-life of approximately 2 hours and 6 to 9 hours,
+respectively. During the administration of a single daily
+dose of 100 mg losartan and its active metabolite do not
+accumulate in plasma. Biliary and urinary excretion
+contribute to the elimination of losartan and its
+metabolites [22].
+
+Olmesartan medoxomil is described chemically as two,
+3-diidroxi-2-butenil-4-(1-hidroxi-1-metiletil)-2-propil-1-
+[p-(o-1H-tetrazol-5fenil) benzil] imidazol-5-carboxilato, 2,
+3-cycliccarbonate. The empirical formula is C29H30N606.
+Its bioactivation by ester hydrolysis occurs to olmesartan
+during absorption from the gastrointestinal tract. Appears
+to be eliminated in a biphasic fashion, with a half-life of 6-
+15 hours. Pharmacokinetics of olmesartan is linear
+following single oral doses and multiple oral doses higher
+than therapeutic doses. Olmesartan binds competitively
+and selectively to the AT1 receptor, the action is
+independent of the synthesis pathways of angiotensin II
+[23]. The absolute bioavailability is of approximately 26%.
+The maximum plasma concentration (Cmax) after oral
+administration is reached after approximately 2 hours.
+Approximately 30% to 50% of the absorbed dose is
+recovered in the urine, while feces excrete the remainder.
+
+The prodrug candesartan cilexetil is converted to the
+active drug candesartan. The absolute bioavailability of
+candesartan is about 40% after an oral solution of
+candesartan cilexetil. The relative bioavailability of
+candesartan cilexetil tablets, compared with the same oral
+solution is approximately 34%, with very little variability.
+The mean peak plasma concentration (Cmax) occurs 3-4
+hours after ingestion of the tablet. Candesartan is highly
+bound to plasma proteins (> 99%). Candesartan is
+eliminated primarily unchanged by urinary tract and bile
+and only a small part is eliminated by hepatic metabolism
+24].
+
+Telmisartan possesses rapid absorption, but the amount
+absorbed varies. The mean absolute bioavailability is
+about 50%. Telmisartan predominantly binds to plasma
+proteins (99.5%), mainly albumin and alpha-l acid
+glycoprotein. The metabolism takes place by conjugation
+to glucuronide. Telmisartan is characterized by a bi-
+exponential decay kinetics with a terminal half-life greater
+than 20 hours. Cumulative urinary excretion is less than
+2% of the dose.
+
+Valsartan after oral administration exhibits a mean
+absolute bioavailability of 23%. Valsartan has an
+exponential decay kinetics (t1/2 alpha <1 h and t 1/2 beta
+about 9 am). The pharmacokinetics of valsartan is linear in
+the tested dose range. No changes occur in the kinetics of
+valsartan on repeated administration and there is little
+accumulation when administered once daily. The binding
+rate to serum proteins (94-97%), mainly serum albumin.
+Of the total absorbed dose, 70% are excreted in feces and
+30% in the urine, mainly as unchanged drug [24].
+
+3. Conclusion
+
+Based on the literature review we concluded that
+hypertension is a disease that affects a significant portion
+of the world population. In the literature there is no
+consensus regarding the etiology of hypertension. Thus,
+the molecular and cellular mechanisms involved in the
+pathophysiology remain under investigation. However, it
+
+is known that there is a central and peripheral
+catecholamine dysfunction in arterial hypertension.
+Scientists are still searching for a drug therapy that is
+effective in the treatment of hypertension, as well as
+providing obtaining the control target, a reduction in
+cardiovascular morbidity and mortality. Currently, there
+are several classes of drugs for hypertension that present
+varying mechanisms of action. Among these classes of
+drugs, the AT1 receptor blockers angiotensin I, have
+proven to be effective in treating this pathology by
+reducing the rates of cardiovascular mortality and
+morbidity. ARBs have among themselves in different
+ways AT1 receptor blocking action, due to its molecular
+differences. Olmesartan medoxomil is the newest drug of
+this class andprovides greater reduction in blood pressure.
+The side effects of ARBs are comparable to placebo. Thus,
+there is a greater patient compliance to treatment and a
+positive response in the treatment of hypertension.
+
+(1,80nM)
+
+Telmisartana
+
+(6)
+
+(0,09nM)
+
+ 
+
+Candesartana
+
+ 
+
+ 
+
+ 
+
+Figure 1. Molecular structure of main antagonists of the angiotensin Ilin
+Brazil
+
+References
+
+1 Cesaretti, Mario Luis Riberio; Ginoza, Milton; Kohimann Junior,
+Osvaldo. Neural mechanisms: sympathetic nervous system. In:
+Ribeiro, Artur Beltrame; Plavnik, Frida Liane. Update on clinical
+hypertension, diagnostic and therapeutic: Pathophysiology of
+hypertension. London: Atheneu, 2008. Chapter 9, p. 79-85.
+
+2 Krieger, Eduardo Moacyr; Irigoyen, Maria Claudia; Krieger, José
+Eduardo. Pathophysiology of hypertension. Journal of
+Cardiolologia Society of the State of São Paulo, São Paulo, P.01-7,
+1999.
+
+3 Ribeiro, José Márcio; Florencio Leonardo P.Pharmacological
+blockade of the renin-angiotensin-aldosterone system: converting
+enzyme inhibition and AT1 receptor antagonism. Brazilian Journal
+of Hypertension, Sao Paulo, n., P.293-302, 2000.
+
+4] PR Vade Mecum. Vade Mecum medications.
+publications ed. São Paulo, 2011.
+
+5 Rang, H.P; Dale, M.M, Pharmacology, 3rd ed. Publisher Koogan
+Guanabara, Rio de Janeiro, 1997.
+
+6] Guyton, AC, HallL, JE Treaty of Medical Physiology 10. Ed. Rio
+de Janeiro Guanabara Koogan 2002.
+
+7 Cipullo, José Paulo et al. Prevalence and Risk Factors for
+Hypertension in a Brazilian Population Urbana. Brazilian
+Archives of Cardiology, Sao Paulo, P.520-526, 2010.
+
+8] Franklin, Stanley S. et al. Cardiovascular Morbidity and Mortality
+in Hypertensive Patients with Lower Risk Higher Versus LIFE
+Substudy. American Heart Association, Dallas, p.492-499, 2005.
+
+RGR 17
+
+ 
+
+ 
+
+
+45
+
+9]
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+ 
+
+16
+
+ 
+
+Biomedical Science and Engineering
+
+Gomes, Marco Antonio Mota et al. Treatment of Hypertension
+with olmesartan medoxomil in scheduling. Brazilian Archives of
+Cardiology, Sao Paulo, p.185-193, 2008.
+
+Kreutz, R. Olmesartan / amlodipine: A review of its use in the
+management of hypertension. Vascular Health andRisk
+Management, Princeton, p. 183-192. 2011.
+
+Lopes, Heno Ferreira; GIL, Juliana Dos Santos; Consolim-
+Colombo, Fernanda Marciano. Activation of the adrenergic system,
+renin-angiotensin-aldosterone, endothelin and adrenomedullin in
+hypertension. Journal of the Society of Cardiology of the State of
+São Paulo, São Paulo, v. 18, no. 2, p.102-107, 2008.
+
+Mion Jr, Decius et al. The importance of antihypertensive
+medication treatment adherence. Brazilian Journal of
+Hypertension, Rio de Janeiro, p.55-58, 2006.
+
+Neves, Francis ofAssisi; Campos, Alessandra Menezes. Renin-
+angiotensin-aldosterone In: Ribeiro, Arthur Beltrame; Plavnik,
+Frida Liane Update on clinical hypertension, diagnosis and
+treatment. London: Atheneu, 2008.
+
+Oigman, Wille; Fritsche, Mario Toros. Drugs that intervene in the
+renin-angiotensin system. Brazilian Journal of Hypertension, Rio
+de Janeiro, v.5, p.84-90, 1998.
+
+Oparil, Suzanne et al. Comparative efficacy of olmesartan,
+losartan, valsartan and irbesartan in the control of primary
+hypertension. The jornaul of Clinical Hypertension, vol. 3, no. 5, p.
+202-282, 2001.
+
+Tamargo, Juan et al. Pharmacological characteristics of ARB them.
+Son all iguales? Spanish Journal of Cardiology, vol. 6, p 10-24,
+2006.
+
+ 
+
+17
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+ 
+
+Trapp, Silvia Manduca, Vailatil, Maria do Carmo Fernandes,
+Matsubara, Beatriz Bojikian, Schwartz, Denise Saretta. Effects of
+angiotensin Il in the cardiovascular system. Archives of
+Veterinary Science, North America, 14, jun. 2009.
+
+Verdecchia, Paolo et al. Comparative assessment of angiotensin
+receptor blockers in different clinical settings. Vascular Health and
+Risk Management, Princeton, n., P.939-949, November 2008.
+Rigatto, Katya Vianna, Bohlke, Maristela, Irigoyen, Maria Claudia.
+Renin angiotensin system: from physiology to therapy. Magazine
+Society of Cardiology of Rio Grande do Sul. 2004.
+
+Salgado, Wilson. Control of blood pressure to prevent
+cardiovascular disease. In: Santos, Raul D. Manual of prevention
+of cardiovascular diseases. London: Atha, 2008.
+
+Povoa, Rui; Bombig, Maria Teresa Nogueira. Hypertension
+secondarily renal and endocrine origin: diagnosis and treatment.
+Journal of Cardiolologia Society of the State of São Paulo, São
+Paulo, n., P.122-134, 2008.
+
+Consolim-Colombo, Fernanda M; Krieger, Eduardo Moacyr.
+Sympathetic nervous system and hypertension. Brazilian
+Hypertension magazine, Rio de Janeiro, v 11, p. 275-278, 2004.
+Correa, Thiago Domingos et al. Hypertension: an update on the
+epidemiology, diagnosis and treatment. Medical files Abc, Sao
+Paulo, n. 5, P.90-101, 2006.
+
+Brazilian Guidelines on Hypertension, Brazilian Archives of
+Cardiology, vol. 95, 2010.
+
+BRASIL. Ministério da Saúde. Cadernos de Atenção Básica:
+Hipertensão Arterial Sistêmica. n. 15. Brasília, 2006.Link:
+http://bvsms.saude.gov.br/bvs/publicacoes/caderno atencao basic
+al5.pdf.
